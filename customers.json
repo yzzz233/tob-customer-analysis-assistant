@@ -1,0 +1,23 @@
+[
+    {
+        "name": "重庆某制造公司",
+        "industry": "制造",
+        "employee_count": 500,
+        "pain_point": "库存管理混乱，生产进度不透明",
+        "current_system": "Excel手工管理"
+    },
+    {
+        "name": "重庆某电商公司",
+        "industry": "电商",
+        "employee_count": 80,
+        "pain_point": "订单增长快，客服响应慢",
+        "current_system": "简单进销存系统"
+    },
+    {
+        "name": "某教育培训机构",
+        "industry": "教育",
+        "employee_count": 120,
+        "pain_point": "学员问题重复，人工答疑压力大",
+        "current_system": "微信群 + 表格管理"
+    }
+]
