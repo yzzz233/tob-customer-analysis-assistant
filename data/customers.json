@@ -1,0 +1,68 @@
+[
+    {
+      "customer_name": "西南装备",
+      "industry": "制造业",
+      "employee_count": null,
+      "current_system": null,
+      "follow_up_note": "客户反馈生产排程复杂，质量追溯困难，想了解是否能通过系统提升现场管理效率。",
+      "budget": null,
+      "decision_maker": null,
+      "timeline": null,
+      "sales_stage": "初步沟通"
+    },
+    {
+      "customer_name": "明德教育",
+      "industry": "教育",
+      "employee_count": 200,
+      "current_system": "CRM",
+      "follow_up_note": "客户表示学员咨询量较大，人工客服响应慢，希望提升咨询接待效率。",
+      "budget": null,
+      "decision_maker": "运营负责人",
+      "timeline": null,
+      "sales_stage": "需求沟通"
+    },
+    {
+      "customer_name": "云仓电商",
+      "industry": "电商",
+      "employee_count": null,
+      "current_system": null,
+      "follow_up_note": "客户提到库存经常对不上，订单处理效率低，想了解有没有系统可以统一管理。",
+      "budget": "暂未明确",
+      "decision_maker": null,
+      "timeline": "一个月内想了解方案",
+      "sales_stage": "初步沟通"
+    },
+    {
+      "customer_name": "智造科技",
+      "industry": "制造业",
+      "employee_count": 300,
+      "current_system": "ERP",
+      "follow_up_note": "客户已有 ERP，但质检环节仍主要靠人工记录，异常问题反馈慢。",
+      "budget": null,
+      "decision_maker": null,
+      "timeline": null,
+      "sales_stage": "二次沟通"
+    },
+    {
+      "customer_name": "启航培训",
+      "industry": "教育",
+      "employee_count": 80,
+      "current_system": null,
+      "follow_up_note": "客户反馈课程资料分散，新员工培训主要靠老员工口头带，想了解是否能做内部知识库。",
+      "budget": null,
+      "decision_maker": "教务主管",
+      "timeline": null,
+      "sales_stage": "初步沟通"
+    },
+    {
+      "customer_name": "渝北连锁零售",
+      "industry": "零售",
+      "employee_count": 150,
+      "current_system": "进销存",
+      "follow_up_note": "客户表示多门店库存和销售数据不同步，总部很难及时掌握各门店经营情况。",
+      "budget": "5万以内",
+      "decision_maker": null,
+      "timeline": "两个月内",
+      "sales_stage": "需求沟通"
+    }
+  ]
